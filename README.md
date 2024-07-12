@@ -14,12 +14,11 @@
   ![ne](https://github.com/user-attachments/assets/deabf317-7de3-476b-8f04-21622d1b0d2b)
 
   <h2>Features:</h2>
-  <ul>
-    <li>Fetches news articles from a variety of sources using the News API.</li>
-
-    <li>Delivers news from different categories (customizable based on API options).</li>
-    <li>Clean and user-friendly interface built with React components.</li>
-  </ul>
+  
+   1.Fetches news articles from a variety of sources using the News API.
+   2. Delivers news from different categories (customizable based on API options).
+   3. Clean and user-friendly interface built with React components.
+  
 
   <img src="https://github.com/user-attachments/assets/d8f665a8-851a-4d0f-912b-06f8f97708cc" alt="news description" style="max-width: 100%; height: auto;">
 
