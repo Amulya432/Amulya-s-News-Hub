@@ -15,7 +15,7 @@
 
   <h2>Features:</h2>
   
-   1.Fetches news articles from a variety of sources using the News API.
+   1. Fetches news articles from a variety of sources using the News API.
    2. Delivers news from different categories (customizable based on API options).
    3. Clean and user-friendly interface built with React components.
   
