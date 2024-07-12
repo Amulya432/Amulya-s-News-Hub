@@ -3,19 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+
 </head>
 <body>
 
-  <h1>Amulya's News Hub</h1>
+  <h1>Nexus News</h1>
 
   <p>A React-based news website that aggregates news articles from various sources using the News API.</p>
 
-  <img src="https://github.com/user-attachments/assets/7852e8db-53f2-4641-b34e-16a1e28dfc86" alt="news" style="max-width: 100%; height: auto;">
+  ![ne](https://github.com/user-attachments/assets/deabf317-7de3-476b-8f04-21622d1b0d2b)
 
   <h2>Features:</h2>
   <ul>
     <li>Fetches news articles from a variety of sources using the News API.</li>
+
     <li>Delivers news from different categories (customizable based on API options).</li>
     <li>Clean and user-friendly interface built with React components.</li>
   </ul>
@@ -25,7 +26,7 @@
   <h2>Installation:</h2>
   <ol>
     <li><strong>Clone this repository:</strong></li>
-    <pre><code>git clone https://github.com/Amulya432/NEWS-24-7.git</code></pre>
+    <pre><code>git clone https://github.com/Amulya432/Nexus-News.git</code></pre>
     <li><strong>Navigate to the project directory:</strong></li>
     <pre><code>cd NEWS-24-7</code></pre>
     <li><strong>Install dependencies:</strong></li>
@@ -42,7 +43,7 @@
   <p>This will start the React development server, usually accessible at <a href="http://localhost:3000/">http://localhost:3000/</a> in your web browser.</p>
 
   <h2>Usage:</h2>
-  <p>The Amulyas News Hub application fetches news articles automatically upon launch. You can navigate through different news categories (if supported by the News API) using the provided UI components (e.g., navigation bar, tabs).</p>
+  <p>The Nexus News application fetches news articles automatically upon launch. You can navigate through different news categories (if supported by the News API) using the provided UI components (e.g., navigation bar, tabs).</p>
 
   <h2>Tech Stack:</h2>
   <ul>
@@ -52,7 +53,7 @@
   </ul>
 
   <h2>Contributing:</h2>
-  <p>Contributions to Amulya's News Hub are welcomed and encouraged! To contribute to this project, follow these steps:</p>
+  <p>Contributions to Nexus News are welcomed and encouraged! To contribute to this project, follow these steps:</p>
 
   <ol>
     <li>Fork the repository on GitHub.</li>
@@ -66,7 +67,7 @@
     <li>Collaborate with maintainers and address any feedback or questions during the review process.</li>
   </ol>
 
-  <p>By contributing to Amulya's News Hub, you agree to license your contributions under the MIT License. This ensures that the community can benefit from your improvements and additions.</p>
+  <p>By contributing to Nexus News, you agree to license your contributions under the MIT License. This ensures that the community can benefit from your improvements and additions.</p>
 
   <h2>Future Considerations:</h2>
   <p>Contributing guidelines can be expanded further as the project grows and additional features are considered.</p>
