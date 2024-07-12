@@ -1,12 +1,15 @@
+
 **Amulya's News Hub**
 
 A React-based news website that aggregates news articles from various sources using the News API.
+![news](https://github.com/user-attachments/assets/7852e8db-53f2-4641-b34e-16a1e28dfc86)
 
 Features:
 
 Fetches news articles from a variety of sources using the News API.
 Delivers news from different categories (customizable based on API options).
 Clean and user-friendly interface built with React components.
+![news desciption](https://github.com/user-attachments/assets/d8f665a8-851a-4d0f-912b-06f8f97708cc)
 Potential for additional features (see Future Considerations).
 Installation:
 
